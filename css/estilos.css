@@ -79,6 +79,8 @@ header{
 .menu-navegacion a{
     color:white;
     text-decoration:none;
+    font-size: 50px;
+    font-weight: bold; 
 }
 
 .titulo{
@@ -87,7 +89,6 @@ header{
 }
 
 .copy{
-    font-weight: 300;
     font-size: 25px;
     font-weight: bold;  
 }
